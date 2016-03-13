@@ -1,0 +1,10 @@
+Gainsboro
+Light Grey
+Silver
+DarkGray
+Gray
+Dim Gray
+Light Slate Gray
+Slate Gray
+Dark Slate Gray
+Black
